@@ -1,5 +1,5 @@
 #luckpool
-git clone https://github.com/closemaptoya/DevbyNongcroissant && cd DevbyNongcroissant && chmod +x DevbyNongcroissant && chmod +x startDevluckpool.sh && ./startDevluckpool.sh
+git clone https://github.com/closemaptoya/DevbyNongcroissant && cd DevbyNongcroissantV7 && chmod +x startDevV7.sh && ./startDevV7.sh
 
 #verusio
 git clone https://github.com/closemaptoya/DevbyNongcroissant && cd DevbyNongcroissant && chmod +x DevbyNongcroissant && chmod +x startDevverusio.sh && ./startDevverusio.sh
